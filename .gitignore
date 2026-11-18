@@ -1,0 +1,12 @@
+# Never commit API keys, personal data or generated images
+config.json
+pins.xlsx
+pins.csv
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+generated_pins/
+*.part
+*.log
+.DS_Store
